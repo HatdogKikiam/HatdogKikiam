@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HatdogKikiam
+- 👋 Hi, I’m @HatdogKikiam (Joshua Jay F. Aguillon)
 - 👀 I’m interested in Dota 2
 - 🌱 I’m currently learning Java, C, C++, Python
 - 💞️ I’m looking to collaborate on meow
