@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hatdog</h1>
-<h3 align="center">A passionate frontend developer from Meowrica</h3>
+<h3 align="center">A passionate aspiring coder/programmer from Meowrica</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hatdogkikiam&label=Profile%20views&color=0e75b6&style=flat" alt="hatdogkikiam" /> </p>
 
