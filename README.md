@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hatdogkikiam" alt="hatdogkikiam" /></a> </p>
 
-- 🔭 I’m currently working on **FrontEnd Programming**
+- 🔭 I’m currently working on **FrontEnd Programming and BackEnd Programming**
 
-- 🌱 I’m currently learning **Python and JavaScript/TypeScript**
+- 🌱 I’m currently learning **Python, JavaScript/TypeScript, MySQL and PHP**
 
 - 👯 I’m looking to collaborate on **N/A**
 
