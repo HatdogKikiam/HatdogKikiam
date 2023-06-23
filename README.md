@@ -22,6 +22,9 @@
 - ⚡ Fun fact **I am SuperIdol**
 
 <h3 align="left">Connect with me:</h3>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/711382382594228244)](https://discord.com/users/711382382594228244)
+
 <p align="left">
 </p>
 
