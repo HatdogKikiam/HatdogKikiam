@@ -8,7 +8,7 @@
 ## Quick Info
 
 - 🔭 I’m currently working on **Frontend and Backend Development**
-- 🌱 I’m currently learning **Python, JavaScript/TypeScript, MySQL, and PHP**
+- 🌱 I’m currently learning **Python, JavaScript, TypeScript, MySQL, and PHP**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: **hatdogkikiam1@gmail.com**
 - ⚡ Fun fact: **I am a SuperIdol 🌟**
