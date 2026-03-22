@@ -1,78 +1,197 @@
-<h1 align="center">Hi there! I'm Hatdog 🐾</h1>
-<h3 align="center">A passionate aspiring coder/programmer from Meowrica 🌟</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hatdogkikiam&label=Profile%20views&color=0e75b6&style=flat" alt="hatdogkikiam" /> </p>
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hey%20There!%20I'm%20Hatdog%20🐾&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Coder%20%7C%20Frontend%20%26%20Backend%20Dev%20%7C%20SuperIdol%20🌟&descAlignY=56&descAlign=50" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hatdogkikiam" alt="hatdogkikiam" /></a> </p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full-Stack+Developer+in+the+Making+💻;Python+%7C+JavaScript+%7C+TypeScript+%7C+PHP+%7C+MySQL;From+Meowrica+🌟+to+the+World!" alt="Typing SVG" />
+</a>
 
-## Quick Info
+<br/>
 
-- 🔭 I’m currently working on **Frontend and Backend Development**
-- 🌱 I’m currently learning **Python, JavaScript, TypeScript, MySQL, and PHP**
-- 💬 Ask me about **Anything**
-- 📫 How to reach me: **hatdogkikiam1@gmail.com**
-- ⚡ Fun fact: **I am a SuperIdol 🌟**
+<!-- Social Badges -->
+[![Email](https://img.shields.io/badge/Email-hatdogkikiam1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatdogkikiam1@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=HatdogKikiam&label=Profile+Views&color=7C3AED&style=for-the-badge)](https://github.com/HatdogKikiam)
+[![Followers](https://img.shields.io/github/followers/HatdogKikiam?label=Followers&style=for-the-badge&color=7C3AED&logo=github)](https://github.com/HatdogKikiam?tab=followers)
+[![Meowrica](https://img.shields.io/badge/From-Meowrica%20🌟-FF6B9D?style=for-the-badge)](https://github.com/HatdogKikiam)
 
-## Connect with me:
+</div>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/711382382594228244)](https://discord.com/users/711382382594228244)
+---
 
-## Languages and Tools:
+## 🐾 About Me
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
-  </a>
-</p>
+```typescript
+const hatdog = {
+  name:         "Joshua Aguillon",
+  alias:        "HatdogKikiam 🐾",
+  title:        "Aspiring Coder & SuperIdol 🌟",
+  location:     "Meowrica 🐱",
+  email:        "hatdogkikiam1@gmail.com",
+  currentFocus: ["Frontend Development", "Backend Development"],
+  learning:     ["Python", "JavaScript", "TypeScript", "MySQL", "PHP"],
+  alsoKnows:    ["Java", "C", "C++", "SourcePawn"],
+  funFact:      "I am a SuperIdol 🌟",
+  askMeAbout:   "Literally anything! 💬",
+  openToWork:   true,
+};
+```
 
-## Language Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hatdogkikiam&show_icons=true&locale=en&layout=compact" alt="hatdogkikiam" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hatdogkikiam&show_icons=true&locale=en" alt="hatdogkikiam" /></p>
+## 🚀 What I'm Up To
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hatdogkikiam&" alt="hatdogkikiam" /></p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔭 Currently Working On</h3>
+      <ul>
+        <li>⚡ Frontend Development — building beautiful UIs</li>
+        <li>🛠️ Backend Development — APIs & server-side logic</li>
+        <li>🎮 Game Modding — SourcePawn & CS plugins</li>
+        <li>🎵 Music Player App — JavaScript project</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🌱 Currently Learning</h3>
+      <ul>
+        <li>🐍 Python — scripting & automation</li>
+        <li>⚡ JavaScript — dynamic web magic</li>
+        <li>🔷 TypeScript — strongly typed JS</li>
+        <li>🗄️ MySQL — relational databases</li>
+        <li>🐘 PHP — server-side scripting</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SourcePawn](https://img.shields.io/badge/SourcePawn-FF6600?style=for-the-badge&logo=steam&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🎨 Design & Creative
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+
+### 🎮 Game Dev
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HatdogKikiam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatdogKikiam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HatdogKikiam&theme=tokyonight&hide_border=true" height="180em"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HatdogKikiam&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HatdogKikiam&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🗂️ Featured Projects
+
+<div align="center">
+
+[![ZombieReloadForCSS](https://github-readme-stats.vercel.app/api/pin/?username=HatdogKikiam&repo=ZombieReloadForCSS&theme=tokyonight&hide_border=true)](https://github.com/HatdogKikiam/ZombieReloadForCSS)
+[![BSIT3AMusic-Player](https://github-readme-stats.vercel.app/api/pin/?username=HatdogKikiam&repo=BSIT3AMusic-Player&theme=tokyonight&hide_border=true)](https://github.com/HatdogKikiam/BSIT3AMusic-Player)
+
+</div>
+
+---
+
+## 🌟 Fun Facts & Personality
+
+<div align="center">
+
+| 🐾 | About Hatdog |
+|:---:|:---|
+| 🌍 | Based in the magical land of **Meowrica** |
+| 👤 | Real name: **Joshua Aguillon** |
+| 💡 | Always curious, always building |
+| 🎯 | Passionate about clean code & great UX |
+| 🎮 | Also into game dev with Unity & Unreal Engine |
+| 🎨 | Creative side: Photoshop, Illustrator & XD |
+| 💬 | Open to questions on **literally anything** |
+| 🌟 | Self-proclaimed **SuperIdol** (confirmed) |
+| 📧 | Reach me: hatdogkikiam1@gmail.com |
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatdogkikiam1@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/711382382594228244)
+[![GitHub Follow](https://img.shields.io/github/followers/HatdogKikiam?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&color=181717)](https://github.com/HatdogKikiam)
+
+<br/>
+
+> *"The best way to learn to code is to just start building."* — Hatdog 🐾
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&text=Thanks%20for%20visiting!%20🐾&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+</div>
