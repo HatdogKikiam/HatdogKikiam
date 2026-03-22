@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hey%20There!%20I%27m%20Hatdog&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Coder%20%7C%20Frontend%20%26%20Backend%20Dev%20%7C%20SuperIdol&descAlignY=56&descAlign=50" width="100%"/>
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full-Stack+Developer+in+the+Making;Python+%7C+JavaScript+%7C+TypeScript+%7C+PHP+%7C+MySQL;From+Meowrica+to+the+World!" alt="Typing SVG" />
@@ -9,6 +12,7 @@
 
 <!-- Social Badges -->
 [![Email](https://img.shields.io/badge/Email-hatdogkikiam1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatdogkikiam1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Joshua%20Jay%20Aguillon-00C896?style=for-the-badge&logo=wix&logoColor=white)](https://dendiitushi.wixsite.com/joshuajayaguillon)
 [![Profile Views](https://komarev.com/ghpvc/?username=HatdogKikiam&label=Profile+Views&color=7C3AED&style=for-the-badge)](https://github.com/HatdogKikiam)
 [![Followers](https://img.shields.io/github/followers/HatdogKikiam?label=Followers&style=for-the-badge&color=7C3AED&logo=github)](https://github.com/HatdogKikiam?tab=followers)
 [![Meowrica](https://img.shields.io/badge/From-Meowrica%20🌟-FF6B9D?style=for-the-badge)](https://github.com/HatdogKikiam)
@@ -29,6 +33,7 @@ const hatdog = {
   currentFocus: ["Frontend Development", "Backend Development"],
   learning:     ["Python", "JavaScript", "TypeScript", "MySQL", "PHP"],
   alsoKnows:    ["Java", "C", "C++", "SourcePawn"],
+  portfolio:    "https://dendiitushi.wixsite.com/joshuajayaguillon",
   funFact:      "I am a SuperIdol 🌟",
   askMeAbout:   "Literally anything! 💬",
   openToWork:   true,
@@ -157,6 +162,7 @@ const hatdog = {
 
 | 🐾 | About Hatdog |
 |:---:|:---|
+| 🌐 | Portfolio: **[joshuajayaguillon](https://dendiitushi.wixsite.com/joshuajayaguillon)** |
 | 🌍 | Based in the magical land of **Meowrica** |
 | 👤 | Real name: **Joshua Aguillon** |
 | 💡 | Always curious, always building |
@@ -176,6 +182,7 @@ const hatdog = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatdogkikiam1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-00C896?style=for-the-badge&logo=wix&logoColor=white)](https://dendiitushi.wixsite.com/joshuajayaguillon)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/711382382594228244)
 [![GitHub Follow](https://img.shields.io/github/followers/HatdogKikiam?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&color=181717)](https://github.com/HatdogKikiam)
 
